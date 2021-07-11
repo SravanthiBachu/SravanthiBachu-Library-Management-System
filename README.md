@@ -1,4 +1,4 @@
-# SravanthiBachu-Library-Management-System
+# Library-Management-System
 
 Library management system which is capable of issuing books to the students.
  Book should have info like:
